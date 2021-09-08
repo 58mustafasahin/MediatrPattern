@@ -1,0 +1,15 @@
+C:\Users\mustafa\source\repos\MediatrProject\MediatrEntity\bin\Debug\net5.0\MediatrEntity.deps.json
+C:\Users\mustafa\source\repos\MediatrProject\MediatrEntity\bin\Debug\net5.0\MediatrEntity.dll
+C:\Users\mustafa\source\repos\MediatrProject\MediatrEntity\bin\Debug\net5.0\ref\MediatrEntity.dll
+C:\Users\mustafa\source\repos\MediatrProject\MediatrEntity\bin\Debug\net5.0\MediatrEntity.pdb
+C:\Users\mustafa\source\repos\MediatrProject\MediatrEntity\bin\Debug\net5.0\AppCore.dll
+C:\Users\mustafa\source\repos\MediatrProject\MediatrEntity\bin\Debug\net5.0\AppCore.pdb
+C:\Users\mustafa\source\repos\MediatrProject\MediatrEntity\obj\Debug\net5.0\MediatrEntity.csproj.AssemblyReference.cache
+C:\Users\mustafa\source\repos\MediatrProject\MediatrEntity\obj\Debug\net5.0\MediatrEntity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mustafa\source\repos\MediatrProject\MediatrEntity\obj\Debug\net5.0\MediatrEntity.AssemblyInfoInputs.cache
+C:\Users\mustafa\source\repos\MediatrProject\MediatrEntity\obj\Debug\net5.0\MediatrEntity.AssemblyInfo.cs
+C:\Users\mustafa\source\repos\MediatrProject\MediatrEntity\obj\Debug\net5.0\MediatrEntity.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\source\repos\MediatrProject\MediatrEntity\obj\Debug\net5.0\MediatrEntity.csproj.CopyComplete
+C:\Users\mustafa\source\repos\MediatrProject\MediatrEntity\obj\Debug\net5.0\MediatrEntity.dll
+C:\Users\mustafa\source\repos\MediatrProject\MediatrEntity\obj\Debug\net5.0\ref\MediatrEntity.dll
+C:\Users\mustafa\source\repos\MediatrProject\MediatrEntity\obj\Debug\net5.0\MediatrEntity.pdb

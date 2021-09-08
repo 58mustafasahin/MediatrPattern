@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MediatrEntity/1.0.0": {
+        "dependencies": {
+          "AppCore": "1.0.0"
+        },
+        "runtime": {
+          "MediatrEntity.dll": {}
+        }
+      },
+      "AppCore/1.0.0": {
+        "runtime": {
+          "AppCore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MediatrEntity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AppCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
